@@ -24,18 +24,9 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-**Ouça o Podcast abaixo:**
-[SoundCloud audio]https://soundcloud.com/seu_usuario/sua_musica[/SoundCloud audio]
-<audio controls>
-  <source src="https://github.com/oemeferreira/prompts-para-criar-podcasts/blob/main/output/musica_suno.mp3" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
-</audio>
+[**Ouça o Podcast Aqui**](https://soundcloud.com/oemeferreira/podcast_iai_negocios)
 
-**Música gerada pelo Suno AI:**
-<audio controls>
-  <source src="https://github.com/oemeferreira/prompts-para-criar-podcasts/blob/main/output/musica_suno.mp3" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
-</audio>
+[**Música gerada pelo Suno AI**](https://soundcloud.com/oemeferreira/musica_suno)
 
 ## 💻 Tecnologias utilizadas no projeto
 
