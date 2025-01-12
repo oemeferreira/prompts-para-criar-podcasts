@@ -25,18 +25,20 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
 **Ouça o Podcast abaixo:**
-
+<p>
 <audio controls>
   <source src="./output/podcast_iai_negocios.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+</p>
 
 **Música gerada pelo Suno AI:**
-
+<p>
 <audio controls>
   <source src="./output/musica_suno.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+</p>
 
 ## 💻 Tecnologias utilizadas no projeto
 
