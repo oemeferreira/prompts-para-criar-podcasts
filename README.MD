@@ -22,7 +22,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
+Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
 [**Ouça o Podcast Aqui**](https://soundcloud.com/oemeferreira/podcast_iai_negocios)
 
